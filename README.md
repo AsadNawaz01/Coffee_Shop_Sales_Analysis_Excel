@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Dashboard – Excel Project
 
-![Coffee Shop Dashboard](path/to/your/dashboard-image.png)
+![Coffee Shop Dashboard](https://github.com/AsadNawaz01/Coffee_Shop_Sales_Analysis_Excel/blob/main/Dashboard.png)
 
 ## 📌 Project Overview
 
@@ -39,7 +39,7 @@ This project focuses on building a comprehensive *Sales Dashboard* using *Micros
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](path/to/your/dashboard-image.png)
+![Dashboard Preview](https://github.com/AsadNawaz01/Coffee_Shop_Sales_Analysis_Excel/blob/main/Dashboard.png)
 
 ---
 
@@ -70,6 +70,6 @@ I'm always open to collaborations and new ideas.
 
 ## 🔗 Connect with Me
 
-Let’s connect on [LinkedIn](https://www.linkedin.com) or reach out via email for feedback or collaboration opportunities.
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/asad-nawaz-711670264/) or reach out via email for feedback or collaboration opportunities.
 
 ---
